@@ -1,1 +1,2 @@
 add_executable(trees trees.cpp)
+add_executable(one_away one_away.cpp)
